@@ -1,1 +1,3 @@
-asdasd
+{
+    "studucation.com.pk": 1,
+}
