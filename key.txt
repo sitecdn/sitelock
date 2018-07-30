@@ -1,5 +1,5 @@
 { 
     "studucation.com.pk": 1,
-    "shakeeltradingcorporation.com": 1, 
+    "shakeeltradingcorporation.com": 0, 
     "end": 0
 }
