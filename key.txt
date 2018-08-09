@@ -4,5 +4,6 @@
     "budgetcarts.com": 1,
     "learnqurancenter.com": 1,
     "getbitcoinworld.com": 1,
+    "ctsp.com.pk": 1,
     "end": 0
 }
