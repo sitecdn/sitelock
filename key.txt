@@ -1,5 +1,6 @@
 { 
     "studucation.com.pk": 1,
+    "rentacar24x7.com": 1,
     "shakeeltradingcorporation.com": 1,
     "budgetcarts.com": 1,
     "learnqurancenter.com": 1,
