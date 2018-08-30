@@ -6,6 +6,6 @@
     "learnqurancenter.com": 1,
     "www.learnqurancenter.com": 1,
     "getbitcoinworld.com": 1,
-    "ctsp.com.pk": 1,
+    "ctsp.com.pk": 0,
     "end": 0
 }
