@@ -1,11 +1,17 @@
 { 
     "studucation.com.pk": 1,
+    "www.studucation.com.pk": 1,
     "rentacar24x7.com": 1,
+    "www.rentacar24x7.com": 1,
     "shakeeltradingcorporation.com": 1,
+    "www.shakeeltradingcorporation.com": 1,
     "budgetcarts.com": 1,
+    "www.budgetcarts.com": 1,
     "learnqurancenter.com": 1,
     "www.learnqurancenter.com": 1,
     "getbitcoinworld.com": 1,
-    "ctsp.com.pk": 0,
+    "www.getbitcoinworld.com": 1,
+    "ctsp.com.pk": 1,
+    "www.ctsp.com.pk": 1,
     "end": 0
 }
