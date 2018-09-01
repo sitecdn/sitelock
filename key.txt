@@ -1,6 +1,6 @@
 { 
-    "studucation.com.pk": 0,
-    "www.studucation.com.pk": 0,
+    "studucation.com.pk": 1,
+    "www.studucation.com.pk": 1,
     "rentacar24x7.com": 1,
     "www.rentacar24x7.com": 1,
     "shakeeltradingcorporation.com": 1,
