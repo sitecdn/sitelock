@@ -11,7 +11,7 @@
     "www.learnqurancenter.com": 1,
     "getbitcoinworld.com": 1,
     "www.getbitcoinworld.com": 1,
-    "ctsp.com.pk": 0,
-    "www.ctsp.com.pk": 0,
+    "bitzminex.com": 1,
+    "www.bitzminex.com": 1,
     "end": 0
 }
