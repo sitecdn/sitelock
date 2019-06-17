@@ -1,4 +1,6 @@
 { 
+    "admissionexpert.org": 1,
+    "www.admissionexpert.org": 1,    
     "studucation.com.pk": 1,
     "www.studucation.com.pk": 1,
     "rentacar24x7.com": 1,
